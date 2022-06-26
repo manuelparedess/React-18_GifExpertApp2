@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en AddCategoy debe de mostrarse correctamente 1`] = `
+<div>
+  <form
+    aria-label="form"
+  >
+    <input
+      type="text"
+      value=""
+    />
+  </form>
+</div>
+`;

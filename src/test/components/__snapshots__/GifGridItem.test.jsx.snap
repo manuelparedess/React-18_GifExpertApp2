@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifGridItem Debe mostrarse correctamente 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Real Madrid"
+      src="https://realmadrid.com/real-madrid.jpg"
+    />
+    <p>
+      Real Madrid
+    </p>
+  </div>
+</div>
+`;

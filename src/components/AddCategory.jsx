@@ -25,7 +25,7 @@ export const AddCategory = ({onNewCategory}) => {
 
     return (
         //Si hay un elemento que contenga a los demas no hace falta poner el fragment
-        <form onSubmit={handleSubmit}>
+        <form onSubmit={handleSubmit} aria-label="form">{/* EL aria-label es para obtener la referencia en el test*/}
             <input 
             type='text'
             value={inputValue}
